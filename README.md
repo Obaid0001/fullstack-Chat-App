@@ -19,7 +19,7 @@ A modern real-time messaging platform built with React, Node.js, Express, MongoD
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://fullstack-chat-app-production-345b.up.railway.app/h" target="_blank">
+  <a href="https://fullstack-chat-app-production-345b.up.railway.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-CLICK%20TO%20OPEN-00C853?style=for-the-badge&logo=rocket&logoColor=white" />
   </a>
 </p>
