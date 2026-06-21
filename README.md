@@ -1,5 +1,4 @@
-                                                                                                                                                                                                                                                                                                             💬 Full Stack Real-Time Chat Application
-
+# 💬 Full Stack Real-Time Chat Application
 
 <p align="center">
   <img width="100%" alt="Chat App Preview" src="https://github.com/user-attachments/assets/e4455cea-eeed-4c50-b067-2ccb45c219ac" />
@@ -11,62 +10,75 @@
 A modern real-time messaging platform built with React, Node.js, Express, MongoDB, Socket.IO, and Cloudinary.
 </p>
 
-
 <p align="center">
   🔐 Secure Authentication • 💬 Real-Time Messaging • 👥 Group Chats • 📸 Status Updates • ✍️ Live Typing • 🔔 Notifications
 </p>
 
 ---
 
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://fullstack-chat-app-production-345b.up.railway.app/h" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-CLICK%20TO%20OPEN-00C853?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+👉 Experience real-time chat instantly — click the button above
+</p>
+
+---
+
 ## 🚀 Features
 
-* 🔐 Authentication & Authorization
-* 💬 Real-Time Messaging with Socket.IO
-* 👥 Group Chats
-* 📸 Status Updates (Stories)
-* ✍️ Live Typing Indicators
-* 🔔 Real-Time Notifications
-* 🖼️ Image Sharing
-* 🎤 Voice Notes
-* 👤 User Profiles
-* 🌐 Online & Offline User Status
-* ☁️ Cloudinary Media Storage
-* 🍪 Secure JWT Authentication
-* 📱 Fully Responsive Design
+- 🔐 Secure Authentication (JWT)
+- 💬 Real-Time Messaging (Socket.IO)
+- 👥 Group Chat Management
+- 📸 Status Updates (Stories)
+- ✍️ Live Typing Indicators
+- 🔔 Instant Notifications
+- 🖼️ Image Sharing (Cloudinary)
+- 🎤 Voice Notes Support
+- 👤 User Profiles
+- 🌐 Online / Offline Presence
+- ☁️ Cloud Media Storage
+- 📱 Fully Responsive UI
+
+---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-
-* React
-* Vite
-* Zustand
-* Tailwind CSS
-* DaisyUI
-* Axios
-* React Router DOM
-* Lucide React
+- React (Vite)
+- Zustand (State Management)
+- Tailwind CSS + DaisyUI
+- Axios
+- React Router DOM
+- Lucide Icons
 
 ### Backend
+- Node.js
+- Express.js
+- MongoDB + Mongoose
+- Socket.IO
+- JWT Authentication
+- Cloudinary
 
-* Node.js
-* Express.js
-* MongoDB
-* Mongoose
-* Socket.IO
-* JWT
-* Cloudinary
+---
 
 ## 📂 Project Structure
 
-```bash
+
 frontend/
 backend/
-```
+
+
+---
 
 ## ⚙️ Environment Variables
 
-Create a `.env` file inside the backend directory.
+Create a `.env` file inside `backend/`
 
 ```env
 PORT=
@@ -76,49 +88,37 @@ CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
 CLIENT_URL=
-```
-
-## 🖥️ Installation
-
-### Clone Repository
-
-```bash
+NODE_ENV=development
+🖥️ Installation & Setup
+1. Clone Repository
 git clone https://github.com/Obaidkorai-678/fullstack-chat-app.git
-```
-
-### Install Dependencies
-
-```bash
-cd frontend
-npm install
-```
-
-```bash
+cd fullstack-chat-app
+2. Install Dependencies
+Backend
 cd backend
 npm install
-```
-
-### Run Development Servers
-
-Backend
-
-```bash
-npm run dev
-```
-
 Frontend
-
-```bash
+cd frontend
+npm install
+3. Run Application
+Backend
 npm run dev
-```
-
-## 🔮 Future Improvements
-
-* ❤️ Message Reactions
-* 📌 Pinned Messages
-* 🔍 Advanced Search
-
-
-## 👨‍💻 Author
+Frontend
+npm run dev
+🔮 Future Improvements
+❤️ Message Reactions
+📌 Pinned Messages
+🔍 Advanced Search
+📞 Voice/Video Calls
+🌙 Dark Mode Enhancements
+👨‍💻 Author
 
 Developed by Obaidkorai-678
+
+⭐ Support
+
+If you like this project:
+
+⭐ Star the repository
+🔗 Share it
+🚀 Use it in your portfolio
