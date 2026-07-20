@@ -1,10 +1,7 @@
 # 💬 Full Stack Real-Time Chat Application
 
-
 <p align="center">
-  <a href="https://fullstack-chat-app-4hk2-tawny.vercel.app/login" target="_blank">
-    <img width="100%" alt="Chat App Preview" src="https://github.com/user-attachments/assets/e4455cea-eeed-4c50-b067-2ccb45c219ac" />
-  </a>
+  <img width="100%" alt="Chat App Preview" src="https://github.com/user-attachments/assets/e4455cea-eeed-4c50-b067-2ccb45c219ac" />
 </p>
 
 <h1 align="center">💬 Full Stack Real-Time Chat Application</h1>
@@ -22,7 +19,9 @@ A modern real-time messaging platform built with React, Node.js, Express, MongoD
 ## 🌐 Live Demo
 
 <p align="center">
-  <img width="100%" alt="Chat App Preview" src="https://github.com/user-attachments/assets/e4455cea-eeed-4c50-b067-2ccb45c219ac" />
+  <a href="https://fullstack-chat-app-production-345b.up.railway.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-CLICK%20TO%20OPEN-00C853?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
