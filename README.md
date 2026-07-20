@@ -1,7 +1,10 @@
 # 💬 Full Stack Real-Time Chat Application
 
+
 <p align="center">
-  <img width="100%" alt="Chat App Preview" src="https://github.com/user-attachments/assets/e4455cea-eeed-4c50-b067-2ccb45c219ac" />
+  <a href="https://fullstack-chat-app-4hk2-tawny.vercel.app/login" target="_blank">
+    <img width="100%" alt="Chat App Preview" src="https://github.com/user-attachments/assets/e4455cea-eeed-4c50-b067-2ccb45c219ac" />
+  </a>
 </p>
 
 <h1 align="center">💬 Full Stack Real-Time Chat Application</h1>
