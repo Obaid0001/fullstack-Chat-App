@@ -22,9 +22,7 @@ A modern real-time messaging platform built with React, Node.js, Express, MongoD
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://fullstack-chat-app-4hk2-tawny.vercel.app/login" target="_blank">
-    <img width="100%" alt="Chat App Preview" src="https://github.com/user-attachments/assets/e4455cea-eeed-4c50-b067-2ccb45c219ac" />
-  </a>
+  <img width="100%" alt="Chat App Preview" src="https://github.com/user-attachments/assets/e4455cea-eeed-4c50-b067-2ccb45c219ac" />
 </p>
 
 <p align="center">
