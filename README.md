@@ -19,7 +19,7 @@ A modern real-time messaging platform built with React, Node.js, Express, MongoD
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://fullstack-chat-app-production-345b.up.railway.app" target="_blank">
+  <a href="https://fullstack-chat-app-production-814c.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-CLICK%20TO%20OPEN-00C853?style=for-the-badge&logo=rocket&logoColor=white" />
   </a>
 </p>
@@ -32,47 +32,49 @@ A modern real-time messaging platform built with React, Node.js, Express, MongoD
 
 ## 🚀 Features
 
-- 🔐 Secure Authentication (JWT)
-- 💬 Real-Time Messaging (Socket.IO)
-- 👥 Group Chat Management
-- 📸 Status Updates (Stories)
-- ✍️ Live Typing Indicators
-- 🔔 Instant Notifications
-- 🖼️ Image Sharing (Cloudinary)
-- 🎤 Voice Notes Support
-- 👤 User Profiles
-- 🌐 Online / Offline Presence
-- ☁️ Cloud Media Storage
-- 📱 Fully Responsive UI
+* 🔐 Secure Authentication (JWT)
+* 💬 Real-Time Messaging (Socket.IO)
+* 👥 Group Chat Management
+* 📸 Status Updates (Stories)
+* ✍️ Live Typing Indicators
+* 🔔 Instant Notifications
+* 🖼️ Image Sharing (Cloudinary)
+* 🎤 Voice Notes Support
+* 👤 User Profiles
+* 🌐 Online / Offline Presence
+* ☁️ Cloud Media Storage
+* 📱 Fully Responsive UI
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React (Vite)
-- Zustand (State Management)
-- Tailwind CSS + DaisyUI
-- Axios
-- React Router DOM
-- Lucide Icons
+
+* React (Vite)
+* Zustand (State Management)
+* Tailwind CSS + DaisyUI
+* Axios
+* React Router DOM
+* Lucide Icons
 
 ### Backend
-- Node.js
-- Express.js
-- MongoDB + Mongoose
-- Socket.IO
-- JWT Authentication
-- Cloudinary
+
+* Node.js
+* Express.js
+* MongoDB + Mongoose
+* Socket.IO
+* JWT Authentication
+* Cloudinary
 
 ---
 
 ## 📂 Project Structure
 
-
+```text
 frontend/
 backend/
-
+```
 
 ---
 
@@ -89,36 +91,71 @@ CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
 CLIENT_URL=
 NODE_ENV=development
-🖥️ Installation & Setup
-1. Clone Repository
+```
+
+---
+
+## 🖥️ Installation & Setup
+
+### 1. Clone Repository
+
+```bash
 git clone https://github.com/Obaidkorai-678/fullstack-chat-app.git
 cd fullstack-chat-app
-2. Install Dependencies
-Backend
+```
+
+### 2. Install Dependencies
+
+#### Backend
+
+```bash
 cd backend
 npm install
-Frontend
+```
+
+#### Frontend
+
+```bash
 cd frontend
 npm install
-3. Run Application
-Backend
-npm run dev
-Frontend
-npm run dev
-🔮 Future Improvements
-❤️ Message Reactions
-📌 Pinned Messages
-🔍 Advanced Search
-📞 Voice/Video Calls
-🌙 Dark Mode Enhancements
-👨‍💻 Author
+```
 
-Developed by Obaidkorai-678
+### 3. Run Application
 
-⭐ Support
+#### Backend
+
+```bash
+npm run dev
+```
+
+#### Frontend
+
+```bash
+npm run dev
+```
+
+---
+
+## 🔮 Future Improvements
+
+* ❤️ Message Reactions
+* 📌 Pinned Messages
+* 🔍 Advanced Search
+* 📞 Voice/Video Calls
+* 🌙 Dark Mode Enhancements
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Obaidkorai-678**
+
+---
+
+## ⭐ Support
 
 If you like this project:
 
-⭐ Star the repository
-🔗 Share it
-🚀 Use it in your portfolio
+* ⭐ Star the repository
+* 🔗 Share it
+* 🚀 Use it in your portfolio
